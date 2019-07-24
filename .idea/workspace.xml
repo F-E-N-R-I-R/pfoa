@@ -2,24 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1df208eb-da54-4092-b088-01f01f1f41ac" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/app/content/content.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/content/content.component.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/content/content.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/content/content.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/navbar/navbar.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/navbar/navbar.component.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/navbar/navbar.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/navbar/navbar.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/sidebar/sidebar.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/sidebar/sidebar.component.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/sidebar/sidebar.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/sidebar/sidebar.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/logo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -46,6 +29,7 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../pfo" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -113,7 +97,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1563956432692</updated>
-      <workItem from="1563956437094" duration="9231000" />
+      <workItem from="1563956437094" duration="10445000" />
     </task>
     <servers />
   </component>
