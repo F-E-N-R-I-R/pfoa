@@ -1,4 +1,9 @@
-<mat-drawer-container class="example-container">
-    <mat-drawer mode="side" opened>Drawer content</mat-drawer>
-    <mat-drawer-content>Main content</mat-drawer-content>
-</mat-drawer-container>
+<img src="../../assets/logo.png" alt="images description">
+<ul>
+    <li *ngFor="let tab of tabs$ | async">{{ tab.title }}</li>
+</ul>
+<!--<button mat-raised-button-->
+<!--        matTooltip="Info about the action"-->
+<!--        aria-label="Button that displays a tooltip when focused or hovered over">-->
+<!--    Action-->
+<!--</button>-->

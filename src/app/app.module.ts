@@ -3,22 +3,27 @@ import { NgModule } from '@angular/core';
 import { MatSidenavModule } from '@angular/material/sidenav';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { HttpClientModule } from '@angular/common/http';
+import { MatTooltipModule } from '@angular/material/tooltip';
 
 import { AppComponent } from './app.component';
-import { SidebarComponent } from './sidebar/sidebar.component';
+import { SideBarComponent } from './sidebar/sidebar.component';
+import { FileProvider } from './sidebar/file.provider';
+
 
 @NgModule({
   declarations: [
     AppComponent,
-    SidebarComponent
+    SideBarComponent
   ],
   imports: [
-    BrowserModule,
+    MatTooltipModule,
+    MatSidenavModule,
+    HttpClientModule,
     BrowserAnimationsModule,
     MatSidenavModule,
-    HttpClientModule
+    BrowserModule
   ],
-  providers: [],
+  providers: [FileProvider],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
